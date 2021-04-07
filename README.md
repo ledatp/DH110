@@ -17,9 +17,16 @@ TroveSkin is a skincare application that allows users to take quizzes to determi
 
 ## Cleo Heuristics Evaluation Ratings
 ### Visibility of System Status
-***Severity Rating: 3***   When using the search feature on the main page and the camera feature (separate from the one on the diary entry page), it takes you to a blank screen without any signifiers that it is loading. Here, I searched “Lymecycline” in the search bar, an item I saw already posted, and was met with a purely blank screen. Similarly, I went to take a photo to update my logs and was unable to access the camera, despite allowing the app access to my camera.<br/>
+***Severity Rating: 3*** When using the search feature on the main page and the camera feature (separate from the one on the diary entry page), it takes you to a blank screen without any signifiers that it is loading. Here, I searched “Lymecycline” in the search bar, an item I saw already posted, and was met with a purely blank screen. Similarly, I went to take a photo to update my logs and was unable to access the camera, despite allowing the app access to my camera.<br/>
 
 ### Match Between Systems and Real World
-***Severity Rating: 2***   The icons used to separate the pages are definitely intuitive (i.e., using a calendar for the diary logs, camera icon to access camera, and graph to access analytics); however, after adding entries and posting reviews on the app, the analytics do not update. Therefore, I am left wondering whether there is more to the app that I am unaware of or if the app is not optimized correctly to perform this task. <br/>
+***Severity Rating: 2*** The icons used to separate the pages are definitely intuitive (i.e., using a calendar for the diary logs, camera icon to access camera, and graph to access analytics); however, after adding entries and posting reviews on the app, the analytics do not update. Therefore, I am left wondering whether there is more to the app that I am unaware of or if the app is not optimized correctly to perform this task. <br/>
+
+**Update** After a couple of hours, the analytics page updated and now illustrates that I have one entry and one post. This is a concern with the visibility of system status as Cleo does not attempt to reassure nor communicate to users that the analytics would take a while to update. <br/>
+
+***Severity Rating: 3*** Users are able to set notification frequencies in the settings; however, there are two blank buttons with no description about what the buttons do. Thus, users must guess whether the top button is for high frequency or low frequency. In addition, regardless of buttons, you can only select one time to receive notifications. If a user would like a reminder to be reminded to wash their face in the morning and night, then it is impossible to do so using Cleo.
+
+
+
 
 
