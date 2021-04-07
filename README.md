@@ -38,7 +38,7 @@ TroveSkin is a skincare application that allows users to take quizzes to determi
 ### Consistency and Standard
 ***Severity Rating: 2*** As aforementioned, the app’s homepage consists of a pseudo-social media that mimics apps like Instagram. Therefore, those familiar with instagram would have an easy time using the app to post reviews and scroll. However, it is unclear if there is a proper algorithm to the app where it shows you products catered to your skin type and concern. Without a proper search feature, filter function, explore page, or the ability to visit reviewer’s profiles it is difficult to see any use to the reviews posted. <br/>
 
-*Recommendation:* Allow users to filter through the home page by product type, fix the search feature, and establish profiles to build a stronger community with the app.
+*Recommendation:* Allow users to filter through the home page by product type, fix the search feature, and establish profiles to build a stronger community with the app. Profiles would also allow users to find individuals with similar skin types and concern to share how they chose to address it. <br/>
 
 ### Error Prevention
 ***Severity Rating: 1*** When editing a diary entry, I assumed all edits were automatically saved and pressing the back button would update the entry. However, when pressing the back button, an error message occurs asking if the user would like to discard all changes made to the entry. <br/>
@@ -46,8 +46,12 @@ TroveSkin is a skincare application that allows users to take quizzes to determi
 ### Recogniton Rather than Recall 
 ***Severity Rating: 3*** When you like or interact with a review about a skincare product, there is no space to access all of your liked contents. Therefore, users must recall what products they were interested in through scrolling through the home page. This is very time consuming and could potentially disrupt the flow of the user. <br/>
 
+*Recommendation:* Create a page that list all items that users have liked while exploring the homepage; thus, they will not need to use a separate application to remember which products they would like to try. <br/>
+
 ### Flexibility and Efficiency of Use
-***Severity Rating: 2*** There are multiple ways to add photos on the app to keep track of your skincare process —  one through the diary entry and one through the general camera feature. Because the diary entries are mainly for end of the day inputs (due to users only being allowed one entry per day), having two options is great for when you are having breakouts or skin complications throughout the day (or have shown great improvements) and would like to take update picture both in the day and at night for the entries. However, the general camera feature does not work as aforementioned or the waiting time is too long without any signifiers that it is loading. <br/>
+***Severity Rating: 3*** There are multiple ways to add photos on the app to keep track of your skincare process —  one through the diary entry and one through the general camera feature. Because the diary entries are mainly for end of the day inputs (due to users only being allowed one entry per day), having two options is great for when you are having breakouts or skin complications throughout the day (or have shown great improvements) and would like to take update picture both in the day and at night for the entries. However, the general camera feature does not work as aforementioned or the waiting time is too long without any signifiers that it is loading. <br/>
+
+*Recommendation:* I would have rated this heuristics a 1 in severity, but because the features aforementioned was nonfunctional, it it utterly uselss. Designing functions that are achievable for the engineers should be highest priority. <br/>
 
 ### Aesthetic and Minimalist Design
 ***Severity Rating: 1*** Cleo has a very minimalistic design with key features needed to keep track of your skin and skincare regime. Because of this, it is very easy to use if we disregard the malfunctions of some of the features. There could have been different design choices that may make the app look better; however, those are more personal decisions that do not interfere with the user interface. <br/>
@@ -57,6 +61,10 @@ TroveSkin is a skincare application that allows users to take quizzes to determi
 
 ### Help and Documentation
 ***Severity Rating: 2*** There is no help (e.g., FAQ page) or any documentation that should assist users. I suspect Cleo believes their site to be highly intuitive; however, a simple onboarding process for new users would help users adjust to the new site. <br/>
+
+*Recommendation:* Create an FAQ page or introduce a *very* simple onboarding process to ease users in. <br/>
+
+## TroveSkin Heuristics Evaluation Ratings
 
 
 
