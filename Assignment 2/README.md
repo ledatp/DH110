@@ -14,8 +14,8 @@ We used Zoom application software to conduct this interview, while both the mode
 The moderator first introduced themselves and the application that they are studying. During this introduction, they also describe the setting of the study and how recording will take place, how the information gained from the study will be used, what is expected of the participant and participant reassurance, and left room for questions. Afterwards, they presented the participant with an informed consent form and received verbal consent from each participant. Lastly, they proceeded with the tasks and satisfaction survey described in the previous sections.
 
 ### Materials and Links
-[Survey Link](https://docs.google.com/forms/d/e/1FAIpQLScIoHeBz-hcB0kaB3md0ecEU_Kl52ZotAF39YowAP7Wj6s4vg/formResponse)
-[Video Recording](
+[Survey Link](https://docs.google.com/forms/d/e/1FAIpQLScIoHeBz-hcB0kaB3md0ecEU_Kl52ZotAF39YowAP7Wj6s4vg/formResponse) <br/>
+[Video Recording](https://drive.google.com/file/d/16D2EtG9wunWhMJjs86CC91oT8p8shAkw/view?usp=sharing)
 
 ### Reflection
 I was very surprised by some of the results from the interview. When initially going through the website, I described that an onboarding process may not have been necessary because Cloe was simple in spute of the many issues I have encountered during it. For instance, one of my diary entry of overwritten when trying to add a second diary entry. This is because you must edit the first entry to update the information. The user who I interviewed did not have this problem and was able to update their morning and night skincare routine without error. They stated that this application reminded them of others that they use to keep track of their calories and their period cycle; thus, it was easier to get used to it. As a result, I realized the importance of including an onboarding process for individuals who do not have experience with similar apps. It is inefficeint to have users learn through trial and error.
