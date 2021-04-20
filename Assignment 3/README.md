@@ -35,8 +35,8 @@
 * In order to complete these activities in a traditional sense, users would go see dermatologists, track their own skin journey (phone camera), and use multiple media to research products (plethora of Google links, Youtube) and find their own communities (Reddit, Facebook). However, applications such as TroveSkin and MayoClinic have created a place to do many of those activities. With this upcoming application, users should be able build an online community with similar concerns, receive recommendations to products that are advertised to their demographic, get general information about their health concerns, and keep a diary log of their skin conditions.
 
 ## Materials
-1. Contextual Inquiry Guide
-2. User Interview Recording
+1. ![Contextual Inquiry Guide](https://docs.google.com/document/d/1Aut1DjyZFB2uTm4GMjF9nKV3nZLgnMZRpb310aOJaGA/edit?usp=sharing)
+2. ![User Interview Recording](https://drive.google.com/file/d/1BA2FzWb3oB0jjpqU9HsPK8xQn99KH-lw/view?usp=sharing)
 
 ## Interview Insight
 **User was unsatisfied with modern way of keeping progress of skin's journey** <br/>
