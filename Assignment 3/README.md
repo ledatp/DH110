@@ -34,6 +34,18 @@
 **What would the users do to complete that activity?**
 * In order to complete these activities in a traditional sense, users would go see dermatologists, track their own skin journey (phone camera), and use multiple media to research products (plethora of Google links, Youtube) and find their own communities (Reddit, Facebook). However, applications such as TroveSkin and MayoClinic have created a place to do many of those activities. With this upcoming application, users should be able build an online community with similar concerns, receive recommendations to products that are advertised to their demographic, get general information about their health concerns, and keep a diary log of their skin conditions.
 
+## Research Methods
+I wanted to gain insight on what applications a user uses to get more information about skincare products and skin condition remedies. So, I chose a participant with underlying health conditions who also had interests in skin care. I conducted a contextual inquiry which consisted of asking the user to perform tasks and answering questions about their experience.
+
+**Background Questions** 
+* I asked the user questions regarding how they typically take diaries of their skin's progress and how often they do it. I also asked questions regarding their current skin type, skin concern, and skin condition. Although the user does not fully fit within my targeted audience (due to age), they had many qualities that I am looking for in users.
+
+**Observation Tasks**
+* I asked the users general questions regarding what applications they use to find reviews and product recommendations and allowed them to show me examples using products that they were already comfortable with. I then asked them to walk me through how they would search for specific attributes for products and whether that information felt readily available to them.
+
+**Follow Ups**
+* I wanted to know more about how to establish trust with brands or how users determine whether a product can be deemed trustworthy. Therefore, I asked about what makes them make certain decisions to buy products (e.g., price, branding, customer reviews, healthcare profession reviews). I also asked questions regarding site satisfaction in terms of the ease of process as well as determining what information on the site bare little importance to them.
+
 ## Materials
 1. ![Contextual Inquiry Guide](https://docs.google.com/document/d/1Aut1DjyZFB2uTm4GMjF9nKV3nZLgnMZRpb310aOJaGA/edit?usp=sharing)
 2. ![User Interview Recording](https://drive.google.com/file/d/1BA2FzWb3oB0jjpqU9HsPK8xQn99KH-lw/view?usp=sharing)
