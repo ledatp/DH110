@@ -47,8 +47,9 @@ I wanted to gain insight on what applications a user uses to get more informatio
 * I wanted to know more about how to establish trust with brands or how users determine whether a product can be deemed trustworthy. Therefore, I asked about what makes them make certain decisions to buy products (e.g., price, branding, customer reviews, healthcare profession reviews). I also asked questions regarding site satisfaction in terms of the ease of process as well as determining what information on the site bare little importance to them.
 
 ## Materials
-1. ![Contextual Inquiry Guide](https://docs.google.com/document/d/1Aut1DjyZFB2uTm4GMjF9nKV3nZLgnMZRpb310aOJaGA/edit?usp=sharing)
-2. ![User Interview Recording](https://drive.google.com/file/d/1BA2FzWb3oB0jjpqU9HsPK8xQn99KH-lw/view?usp=sharing)
+1. [Contextual Inquiry Guide](https://docs.google.com/document/d/1Aut1DjyZFB2uTm4GMjF9nKV3nZLgnMZRpb310aOJaGA/edit?usp=sharing)
+2. [User Interview Recording](https://drive.google.com/file/d/1BA2FzWb3oB0jjpqU9HsPK8xQn99KH-lw/view?usp=sharing)
+3. [Transcript](https://docs.google.com/document/d/17ZS_kkrQUv9Zcs6D_bZQKt_t7kS8-30eHeYnyEAJz9A/edit?usp=sharing)
 
 ## Interview Insight
 **User was unsatisfied with modern way of keeping progress of skin's journey** <br/>
