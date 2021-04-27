@@ -39,5 +39,3 @@ Having used TroveSkin before, he also realized that the community feature was ov
 
 ### John Sense's Journey Map
 <img src="https://user-images.githubusercontent.com/63027004/116314202-a7939500-a763-11eb-8182-de9f6977cd28.png">
-
-## Reflections
