@@ -14,7 +14,7 @@ The three screens illustrates different variations for the application (dark mod
 <img src= "https://user-images.githubusercontent.com/63027004/117766608-ae4eed00-b1e4-11eb-808c-10ff6c57656a.png">
 <img src= "https://user-images.githubusercontent.com/63027004/117766614-b149dd80-b1e4-11eb-9f90-cd4e617c1740.png">
 
-The six screens represents the type of application I wish to make, along with a few of the features I would like to include (log in, sign up, skin type quiz and results, home page for site navigation, and community page). I worked on these aspects using Figma, as aforementioned, and would still like to include product recommendation for the interactive prototype. However, I believe it would be a mixture of the home page and community page (e.g., slide and scroll features), so it made more sense to work on those first. 
+The six screens represents the type of application I wish to make, along with a few of the features I would like to include (log in, sign up, skin type quiz and results, home page for site navigation, and community page to post about skin journeys). I worked on these aspects using Figma, as aforementioned, and would still like to include product recommendation for the interactive prototype. However, I believe it would be a mixture of the home page and community page (e.g., slide and scroll features), so it made more sense to work on those first. 
 
 ### Color Contrast Check
 #### Primary Text
