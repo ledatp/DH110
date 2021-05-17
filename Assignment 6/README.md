@@ -35,3 +35,4 @@ For the impression test, I was unable to attend half of the class. So instead, I
 * Participant stated that there might be missing flow between the sign up page and the homepage as there is no way to identify what skin condition the user have and how the system would know. I agree with this sentiment and will incorporate more screens to make the site complete.
 * Participant had a preference for the "light-mode" version of the application; therefore, I might play around with the design more and see if I can potentially switch them out without eventual contrast issues.
 * Participant was able to accurately predict the affordances of the screens, and believe that the icons are intruitive for the navigation bar.
+* Add a back button for the quiz
