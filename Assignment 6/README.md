@@ -1,6 +1,7 @@
-# User Interface (UI) Design
+# User Interface (UI) and Interactive Prototype
 ## Digital Humanities 110 - Peterson Le
 
+## Part 1: UI Design
 ### Purpose
 The purpose of this high fidelity is to test out the aesthetic that I want for my application. It uses the low fidelity prototype from the previous process and tranforms it into something more visually appealing and closer to the brand I wish for my application. With this, I get to test whether the icons, colors, and fonts are appropriate for a skincare application while also determining if the placements of these features are the most optimal and intuitive for discoverability, understanding, and functionality. I have used the software, Figma, to craft the prototype, and will continue using it to include interactions.
 
@@ -33,6 +34,16 @@ Because my application is about skin care and minimal, I thought to use differen
 For the impression test, I was unable to attend half of the class. So instead, I sent the figma link to the participant and had a phone interview where they explained which screen they are looking at, what affordances the screen enables, and general impressions about the color, typography, icons, and flow. If I had more time today, I would have liked to have set up a full recorded zoom session and activty protocol; however, this was all I can do for the time constraint. The main findings are:
 * "I love the colors and the logo! It is very straight to the point." My design choices was to mimic skin tones paired with a very minimalist design (hence, using lowercase and bolds give off that feel). I'm glad it came across well.
 * Participant stated that there might be missing flow between the sign up page and the homepage as there is no way to identify what skin condition the user have and how the system would know. I agree with this sentiment and will incorporate more screens to make the site complete.
-* Participant had a preference for the "light-mode" version of the application; therefore, I might play around with the design more and see if I can potentially switch them out without eventual contrast issues.
 * Participant was able to accurately predict the affordances of the screens, and believe that the icons are intruitive for the navigation bar.
 * Add a back button for the quiz
+
+## Part 2: Interactive Prototype
+### Purpose
+After receiving feedback on the UI aspects of my design and making final edits to its appearance, I was ready to start creating screens and interactions between them. The main task that are supported with this prototype is the ability to take a skincare quiz to determine skin type, navigate and post to the community pages, find products on the discovery page, and enter a skin diary log for morning routines. There a few minor interactions inbetween as well to make the application feel a little more alive. I then moderated a cognitive walkthrough and survey to see if my participants would have any issue completing the tasks, while the survey was used to get feedback after allowing the participant to play with the site on their own.
+
+### Wireflow
+<img src= "https://user-images.githubusercontent.com/63027004/118562899-71be4c80-b722-11eb-8e21-3ff72530d526.png">
+
+### Prototype
+
+
