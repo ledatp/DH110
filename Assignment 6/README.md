@@ -50,11 +50,15 @@ After receiving feedback on the UI aspects of my design and making final edits t
 ### Cognitive Walkthrough, Feedback, and Reflection
 For the cognitive walkthrough interview, I gave my participant six tasks to complete and examined how they interacted with the application to spot area of improvement. After that I allowed the participant to play around with the site and sent them a google survey with questions about difficulties and possible feedback for the pages that they have interacted with.
 
-[Cognitive Walkthrough Video](https://www.figma.com/proto/rJNdppdBnEBUi4Jpwf32i5/dh110-skin?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
+[Cognitive Walkthrough Video](https://www.figma.com/proto/rJNdppdBnEBUi4Jpwf32i5/dh110-skin?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1) </br>
 [Google Survey](https://www.figma.com/proto/rJNdppdBnEBUi4Jpwf32i5/dh110-skin?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 The cognitive walkthrough went suprisingly well with little to no difficulties in completing the tasks provided. The main issue that I saw was that the participant found it difficult to spot the "Post" button on the community page. Therefore, I may change the text to a button instead to make it more visible. In addition, I believe adding more icons alongside button is something I should add. A separate participant said that I should add an uploud icon on the "open camera roll" button on the "Post" page, but it seems like icon is need more throughout my application nearside other buttons as well.
 
-I did not screen capture the before designs of my application before making buttons and interactions more noticeable as well as adding icon, but the cognitive walkthrough video should act as a "previous" design, while the link to the interactive prototype should act as my current design. Overall, the process of creating a completed high-fidelity prototype was hectic, especially given a week to do so. If I had more time, I would definitely add more interactions. But since I am new to Figma still, the process is very taxing. I believe if I had started with components first and then focused on creating screens then it would be a lot easier. All in all, I am proud of the work I was able to accomplish and how much I was able to learn about UX design and the research process within this 8 week project.
+I did not screen capture the before designs of my application before making buttons and interactions more noticeable as well as adding icon, but the cognitive walkthrough video should act as a "previous" design (as well as the UI design screen captures), while the link to the interactive prototype should act as my current design. An example of what I change are adding rectangles behind the filter and post button and adding icons to accompany it, as well as icons to the open camera roll button.
+
+<img src="https://user-images.githubusercontent.com/63027004/118722181-b6102200-b7e0-11eb-902e-e899ea2fd66e.png">
+
+Overall, the process of creating a completed high-fidelity prototype was hectic, especially given a week to do so. If I had more time, I would definitely add more interactions. But since I am new to Figma still, the process is very taxing. I believe if I had started with components first and then focused on creating screens then it would be a lot easier. All in all, I am proud of the work I was able to accomplish and how much I was able to learn about UX design and the research process within this 8 week project.
 
 
