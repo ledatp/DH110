@@ -50,10 +50,12 @@ After receiving feedback on the UI aspects of my design and making final edits t
 ### Cognitive Walkthrough, Feedback, and Reflection
 For the cognitive walkthrough interview, I gave my participant six tasks to complete and examined how they interacted with the application to spot area of improvement. After that I allowed the participant to play around with the site and sent them a google survey with questions about difficulties and possible feedback for the pages that they have interacted with.
 
-[Cognitive Walkthrough Video](https://www.figma.com/proto/rJNdppdBnEBUi4Jpwf32i5/dh110-skin?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1) </br>
-[Google Survey](https://www.figma.com/proto/rJNdppdBnEBUi4Jpwf32i5/dh110-skin?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
+[Cognitive Walkthrough Video](https://drive.google.com/file/d/1nDZSP1yCHCz7kFodNYgt9IOwznfFyZj5/view?usp=sharing) </br>
+[Google Survey](https://docs.google.com/forms/d/1DuU5bifKGztB-EciYtqHDleaNwZvQLJp1X_Vy8BRuvA/edit?usp=sharing)
 
 The cognitive walkthrough went suprisingly well with little to no difficulties in completing the tasks provided. The main issue that I saw was that the participant found it difficult to spot the "Post" button on the community page. Therefore, I may change the text to a button instead to make it more visible. In addition, I believe adding more icons alongside button is something I should add. A separate participant said that I should add an uploud icon on the "open camera roll" button on the "Post" page, but it seems like icon is need more throughout my application nearside other buttons as well.
+
+For the in class cognitive walkthrough, I received multiple comments on my prototype which includes adding a section for trending products for specific age groups, creating effects when users hover over certain buttons, and creating and autofill or drop-down menu for the pre-questionnaire so there is much more consistency across users' input. These are definitely great suggestions and I will try to incorporate as much of them into my final design.
 
 I did not screen capture the before designs of my application before making buttons and interactions more noticeable as well as adding icon, but the cognitive walkthrough video should act as a "previous" design (as well as the UI design screen captures), while the link to the interactive prototype should act as my current design. An example of what I change are adding rectangles behind the filter and post button and adding icons to accompany it, as well as icons to the open camera roll button.
 
