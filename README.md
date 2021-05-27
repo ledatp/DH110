@@ -14,11 +14,12 @@ Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-u
 ### Competitor Analysis: Usability Testing
 Please refer to assignment 4 for usability testing
 ### User Research: Contextual Inquiry
-Please refer to assignment 5 for usability testing
+Please refer to assignment 5 for contextual inquiry
 ### UX Storytelling
-Please refer to assignment 6 for usability testing
+Please refer to assignment 6 for ux storytelling
 ### Low-Fidelity Prototype
-Please refer to assignment 7 for usability testing
+Please refer to assignment 7 for low-fidelity prototyping
+![lowfi](https://user-images.githubusercontent.com/63027004/116832234-ca111e00-ab68-11eb-9637-7933fc0f35be.png)
 ### High-Fidelity Prototype
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrJNdppdBnEBUi4Jpwf32i5%2Fdh110-skin%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 ### Conclusion
