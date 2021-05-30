@@ -15,16 +15,33 @@ After conducting a heuristics evaluation on Cloe, I found many issues that I wan
 [>> access the usability test recording here](https://drive.google.com/file/d/16D2EtG9wunWhMJjs86CC91oT8p8shAkw/view?usp=sharing)
 
 ### User Research: Contextual Inquiry
-Please refer to assignment 5 for contextual inquiry
+After evaluating usability problems Cloe and Troveskin, I wanted to know what other applications do users use to learn more about their skin type, find skincare products, and find a community centered around this topic. In addition, it was imperative that I expand my questions to encompass participants with harsher skin disorders (psoriasis and eosinophilic pustular folliculitis), so I created [two inquiry guides](https://docs.google.com/document/d/17ZS_kkrQUv9Zcs6D_bZQKt_t7kS8-30eHeYnyEAJz9A/edit?usp=sharing) designed for low-risk skin disorders and high-risk skin disorders. I conducted a contextual inquiry to observes the different mediums that users use in which I can emulate their functions into my designs. The main site that were used for the tasks aforementioned was Tiktok for product discovery, YouTube and Amazon for product review, and Facebook for community building. After this meeting I delved deeper into these four websites to figure out how their designs promoted discoverability, learnability, and understanding. [...read more](https://github.com/ledatp/DH110/tree/main/Assignment%203) <br/>
+[>> access the contextual inquiry recording here](https://drive.google.com/file/d/1BA2FzWb3oB0jjpqU9HsPK8xQn99KH-lw/view?usp=sharing)
+
 ### UX Storytelling
-Please refer to assignment 6 for ux storytelling
+The users that I have identified are middle-aged adults and senior citizens; have skin concerns (e.g., aging, acne) or skin conditions (e.g., psoriasis); lower middle- and low-income communities. The latter is due to the inaccessibility in healthcare currently, so I would like this application to push for alternatives to seeking medical professional (e.g., product recommendations and home remedies) if that is beyond a user's means. The purpose of UX storytelling is to ensure that the designers always have the users in mind. By giving face, personality, and descriptions to specific users, designers will better understand their needs and accommodate them accordingly. In essence, putting ourselves in our user’s shoes, taking upon their perspective and bringing them along to better understand our audience base, the pain points of our project, and the appropriate action for betterment. Here, I created two personas and journey maps with various needs and concerns, as well as their own specified scenarios. [...read more](https://github.com/ledatp/DH110/tree/main/Assignment%204) <br/>
+
+<img src="https://user-images.githubusercontent.com/63027004/116313218-53d47c00-a762-11eb-9b28-5e305a004d0a.png">
+
 ### Low-Fidelity Prototype
-Please refer to assignment 7 for low-fidelity prototyping
+The features and tasks that this low-fidelity prototype enables are a community feature and product recommendation/discovery page with an emphasis on its organization of information that would address the pain points of other applications (e.g., Facebook, Cleo, TroveSkin). The features seeks to address overwhelming layouts (too many features on one page and excessive scrolling to find information) by minimizing distractions on screen, very surface level connections by adding instant messaging systems, and the lack of information on product discovery pages to would result in the need for third party applications. [...read more](https://github.com/ledatp/DH110/tree/main/Assignment%205)
 ![lowfi](https://user-images.githubusercontent.com/63027004/116832234-ca111e00-ab68-11eb-9637-7933fc0f35be.png)
+
 ### High-Fidelity Prototype
+After bypassing the low-fidelity prototyping stage, I began finalizing designs and adding interactions. [... read more](https://github.com/ledatp/DH110/tree/main/Assignment%206)
+
+#### Representative Design 
+<img src= "https://user-images.githubusercontent.com/63027004/117766608-ae4eed00-b1e4-11eb-808c-10ff6c57656a.png">
+
+#### Final Product
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrJNdppdBnEBUi4Jpwf32i5%2Fdh110-skin%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
+
+### Pitch Video
+
 ### Conclusion
-What did you learn throughout this process <br/>
+Overall, this process was incredibly eye-opening as it gave me a glimpse of what it is like to be a UX designer. If I had more time, there are definitely more functionalities I would like to include in my design, as well as conduct more iterations and user interviews to ensure that everything is intuitive. However, I am proud that I was able to build a prototype from scratch. This experience as a whole was very well-rounded, giving me insight on the research and UI design aspects of UX. I would have loved to speak to backend developers and engineers about the knowledge they've gained in this field as well as any "red flag" designs that are too difficult to implement beyond our prototypes.
+
+This course made me realize that I would like to continue UX designs in which I will attempt smaller passion projects that redesigns existing applications rather than attempting to pitch a new one with additive features from other applications. I would also choose a different demographic to center my designs around, as it was incredibly difficult to access senior citizens for this project (especially when they need to have some form of technological expertise to do the interviews remotely). Lastly, I would love to work in pairs or groups as I know UX design requires much cooperation and communications, as well as allowed us to perform reiterations more efficiently. As I seek out more UX design experience, I will definitely use the skills I learned in this course to better support my team in our next design projects.
 
 
 
