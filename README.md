@@ -38,7 +38,7 @@ After bypassing the low-fidelity prototyping stage, I began finalizing designs a
 
 ### Pitch Video
 [Speed Talk Pitch Video (8:23 min)](https://drive.google.com/file/d/1BYQ51WBeTmn2pl9dLzqEuH1OpbCOuUDP/view?usp=sharing) <br/>
-[Slowed Pitch Video (113:44 min)](https://drive.google.com/file/d/1SB5yizfuEAsVYT-OOOS9A3FD_z3f2JoO/view?usp=sharing)
+[Slowed Pitch Video (13:44 min)](https://drive.google.com/file/d/1SB5yizfuEAsVYT-OOOS9A3FD_z3f2JoO/view?usp=sharing)
 ### Conclusion
 Overall, this process was incredibly eye-opening as it gave me a glimpse of what it is like to be a UX designer. If I had more time, there are definitely more functionalities I would like to include in my design, as well as conduct more iterations and user interviews to ensure that everything is intuitive. However, I am proud that I was able to build a prototype from scratch. This experience as a whole was very well-rounded, giving me insight on the research and UI design aspects of UX. I would have loved to speak to backend developers and engineers about the knowledge they've gained in this field as well as any "red flag" designs that are too difficult to implement beyond our prototypes.
 
